@@ -21,6 +21,9 @@ iv)To get the user with the highest tweets,etc.
 # Data Source : 
 The data used was scraped from Twitter with the aid of Jupyter Notebook, after whcih it was imported into Microsoft Power BI for transformng and analysis.
 
+# Tools Used: 
+Jupyter notebook, Microsoft PowerBI, Snip tool, Github
+
 
 # Data Transformation : 
 Each column was ensured to have had the corresponding data types to ensure an error-free analysis. 
@@ -72,4 +75,7 @@ f) While visualisng with word cloud, the word 'NG30DaysofLearning' had the most 
 
 
 # Assemblage of the Visuals:
+
+![TWEETR 1](https://user-images.githubusercontent.com/107119554/180334586-051121dc-5f82-4521-9103-9482341aa972.PNG)
+
 
