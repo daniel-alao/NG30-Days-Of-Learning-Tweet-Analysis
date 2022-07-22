@@ -74,8 +74,15 @@ e)In addition, **Wednesday** was the day with the highest number of tweets of **
 f) While visualisng with word cloud, the word 'NG30DaysofLearning' had the most occurence.
 
 
-# Assemblage of the Visuals:
+# Assemblage of the Visuals ( Tweet Summary):
 
 ![TWEETR 1](https://user-images.githubusercontent.com/107119554/180334586-051121dc-5f82-4521-9103-9482341aa972.PNG)
+
+
+# Tweet Analyses(Visual):
+
+
+![tweeter2](https://user-images.githubusercontent.com/107119554/180335029-d7928106-732b-4edf-8a47-50b86b86c400.PNG)
+
 
 
